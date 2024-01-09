@@ -1,10 +1,10 @@
 {
-  "name": "react-cv",
+  "name": "cv",
   "version": "1.6.0",
   "description": "React-CV is fully customizable and printable CV / Resumee component for React/Gatsby.",
-  "author": "sbayd",
+  "author": "d0gied",
   "license": "MIT",
-  "repository": "sbayd/react-cv",
+  "repository": "d0gied/cv",
   "type": "module",
   "source": "src/index.js",
   "main": "dist/main.js",
